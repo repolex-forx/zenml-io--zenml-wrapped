@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "zenml-io",
+  "repo": "zenml-wrapped",
+  "versions": [
+    {
+      "commit": "967aeed55ec25c1ab944aa5b2fc0b481193038f7",
+      "parsed_at": "2026-11-08T05:38:20.123325+00:00",
+      "filetree": "filetree/967aeed55ec25c1ab944aa5b2fc0b481193038f7.nq.gz",
+      "blobs": [
+        "blob/be21f30f6191381cb3922546c0211cb01c829ea0.nq.gz",
+        "blob/48fa9df4d740867d73df7fbe43db781d4eeec79f.nq.gz",
+        "blob/2ad3e5fcc6d3dfbb3f0ac4b7c651657b571d01b8.nq.gz",
+        "blob/6901018980bb019f807f3c581caa659f8b6918f0.nq.gz",
+        "blob/c821ebdc1489aee51828bf8c6e0cedb801c24543.nq.gz",
+        "blob/a75ff825e18f640fc79ae755ba1bb40cc953d321.nq.gz",
+        "blob/d4c54c013cd4b58e7ce8b9578fed14f0f00aee08.nq.gz",
+        "blob/8a25533286a4295aa16293c69cf30edc0fae379b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
