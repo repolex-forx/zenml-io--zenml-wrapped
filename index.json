@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "zenml-wrapped",
+  "versions": [
+    {
+      "commit": "967aeed55ec25c1ab944aa5b2fc0b481193038f7",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:40:54.945977+00:00"
+    }
+  ]
+}
